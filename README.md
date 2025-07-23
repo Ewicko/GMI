@@ -1,0 +1,2 @@
+# GMI
+Generative Mechanism Index
