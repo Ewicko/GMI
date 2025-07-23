@@ -27,24 +27,24 @@ The Generate Mechanism Index is a benchmark for generative design applications t
 -Material Efficiency (VE): volume used vs. minimum required
 
 
+## Examples
 
-
-### Basic Mechanisms (PCI 1-3):
+#### Basic Mechanisms (CMI 1-3):
 -Force inverters  
 -Displacement amplifiers  
 -Simple grippers
 
-### Intermediate Mechanisms (PCI 4-6):
+#### Intermediate Mechanisms (CMI 4-6):
 -Multi-stable switches
 -Coupled motion generators
 -Precision positioning stages
 
-### Advanced Mechanisms (PCI 7-9):
+#### Advanced Mechanisms (CMI 7-9):
 -Multi-input/multi-output systems
 -Mechanisms with embedded sensing regions
 -Frequency-selective structures
 
-### Expert Level (PCI 10+):
+#### Expert Level (CMI 10+):
 -Full assemblies (micro-engines, pumps)
 -Mechanisms with thermal/electrical coupling
 -Self-assembling or morphing structures
