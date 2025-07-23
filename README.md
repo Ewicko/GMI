@@ -30,8 +30,7 @@ The Generate Mechanism Index is a benchmark for generative design applications t
 
 
 ### Basic Mechanisms (PCI 1-3):
--Force inverters
--Displacement amplifiers
+-Force inverters\-Displacement amplifiers
 -Simple grippers
 
 ### Intermediate Mechanisms (PCI 4-6):
