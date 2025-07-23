@@ -32,19 +32,19 @@ The Generate Mechanism Index is a benchmark for generative design applications t
 #### Basic Mechanisms (CMI 1-3):
 -Force inverters  
 -Displacement amplifiers  
--Simple grippers
+-Simple grippers  
 
 #### Intermediate Mechanisms (CMI 4-6):
--Multi-stable switches
--Coupled motion generators
--Precision positioning stages
+-Multi-stable switches  
+-Coupled motion generators  
+-Precision positioning stages    
 
 #### Advanced Mechanisms (CMI 7-9):
--Multi-input/multi-output systems
--Mechanisms with embedded sensing regions
--Frequency-selective structures
+-Multi-input/multi-output systems  
+-Mechanisms with embedded sensing regions  
+-Frequency-selective structures  
 
 #### Expert Level (CMI 10+):
--Full assemblies (micro-engines, pumps)
--Mechanisms with thermal/electrical coupling
--Self-assembling or morphing structures
+-Full assemblies (micro-engines, pumps)  
+-Mechanisms with thermal/electrical coupling  
+-Self-assembling or morphing structures  
